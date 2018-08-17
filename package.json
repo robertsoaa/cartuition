@@ -2,8 +2,9 @@
   "name": "cartuition",
   "version": "1.0.0",
   "description": "CarTuition is an application that matches users to a car's year, make, and model based on their responses to survey questions.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

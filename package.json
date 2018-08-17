@@ -1,0 +1,33 @@
+{
+  "name": "cartuition",
+  "version": "1.0.0",
+  "description": "CarTuition is an application that matches users to a car's year, make, and model based on their responses to survey questions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertsoaa/cartuition.git"
+  },
+  "keywords": [
+    "car",
+    "car",
+    "matching"
+  ],
+  "author": "Adrian Robertson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertsoaa/cartuition/issues"
+  },
+  "homepage": "https://github.com/robertsoaa/cartuition#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "font-awesome": "^4.7.0",
+    "package": "^1.0.1",
+    "path": "^0.12.7",
+    "primeicons": "^1.0.0-beta.10",
+    "primeng": "^6.1.0"
+  }
+}

@@ -1,7 +1,7 @@
 var friends = [
 	{	
   "name":"2018 Lexus LS500 F Sport AWD",
-  "photo":"/images/lexusls500.jpg",
+  "photo":"/images/lexusls500.jpe",
   "scores":[5, 5, 4, 4, 5, 5, 5, 5, 5, 5]
   },
 

@@ -1,7 +1,7 @@
 // API Routes
 // =============================================================
 
-// First, load the data from friends.js
+// First, load the data from autos.js
 var friendsList = require('../data/friends.js');
 var bodyParser = require('body-parser');
 var path = require('path');
@@ -10,7 +10,7 @@ var path = require('path');
 // Creating Routes
 module.exports = function(app) {
 
-	// Search for Specific Character (or all characters) - provides JSON
+	// Search for Specific Auto
 	app.get("/api/friends", function(req, res){
 		res.status(200).json({message: 'connected.'})
 		res.json(friendsList);

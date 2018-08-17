@@ -13,7 +13,7 @@ module.exports = function(app) {
 	// Search for Specific Auto
 	app.get("/api/friends", function(req, res){
 		res.status(200).json({message: 'connected.'})
-		res.json(friendsList);
+		return res.json(friendsList);
 	});
 
 	// Create New Characters - takes in JSON input

@@ -10,12 +10,12 @@ This purpose of this application is to perform a user compatibility-based "Autom
 
 Upon executing the application, the user will be taken to the homepage.
 
-![homepage](images/homepage.png)
+![homepage](app/images/homepage.png)
 
 The survey asks the user a series of personal questions, takes the results from the users' survey, and then compares their answers with pre-established metrics assigned to various car types. The app will then display the name and picture of the car with the best overall match.
 
 
-![example](images/example.gif)
+![example](app/images/example.gif)
 
 ## Relation to Friend Finder Application (...portions under construction)
 
